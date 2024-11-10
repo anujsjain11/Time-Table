@@ -6,3 +6,11 @@ body{
 table ,tr ,th ,td {
     border: 2px solid white ;
 }
+table{
+    width: 100%;
+}
+
+th,td{
+    width: 12.5%;
+    height: 70px ;
+}
