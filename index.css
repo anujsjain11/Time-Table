@@ -2,3 +2,7 @@ body{
     background-color: rgb(31, 31, 31);
     color: white;
 }
+
+table ,tr ,th ,td {
+    border: 2px solid white ;
+}
