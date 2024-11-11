@@ -17,12 +17,10 @@ th,td{
 }
 
 .cover-area{
-    width: 100%;
-    height: 100%;
-    background-color: rgb(31, 31, 31);
+    /* width: 100%;
+    height: 100%; */
+    background-color: black;
     border: none;
 }
 
-.cover-area:hover{
-    background-color: rgb(144, 0, 255);
-}
+
